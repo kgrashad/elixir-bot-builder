@@ -1,6 +1,6 @@
 # BotBuilder
 
-Unofficial SDK for Microsoft Bot Builder using Elixir &amp; Phoenix.
+Unofficial [Microsoft Bot Builder](https://dev.botframework.com/) SDK for Elixir.
 
 ## Installation
 
